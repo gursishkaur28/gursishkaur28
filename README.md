@@ -8,12 +8,14 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science Student  
-- 🤖 Working on **AI Chatbot "Friday"** (with Text-to-Speech)  
-- 🔊 Exploring **Speech Systems & AI Integration**  
-- 🌍 Contributing & learning in Open Source  
-- ⚡ Focused on building **real-world practical projects**
+
+## 🧠 About Me
+
+- 💻 Frontend Developer | 🎨 Designer | 🚀 Tech Enthusiast  
+- 🐧 Working with Linux (WSL + Ubuntu)  
+- 🤖 Exploring AI, OpenCV & real-world projects  
+- ⚡ Hackathons | Open Source | Creative Coding  
+- 🌱 Always learning, always building  
 
 ---
 

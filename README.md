@@ -1,9 +1,9 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Gursish Kaur</h1>
-<h3 align="center">Aspiring Developer | AI & Speech Systems Enthusiast</h3>
+<h3 align="center">Building | Learning | Creating</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;GSoC+Aspirant;Building+Real+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;;Building+Real+Projects&center=true&width=500&height=50">
 </p>
 
 ---

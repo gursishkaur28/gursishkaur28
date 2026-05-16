@@ -156,6 +156,30 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750583-991f8d7f-62b9-4f96-8c0f-3c4c9e6d0c1b.gif">
 </p>
+
+<h2 align="center">✨ ⚡ End of Scroll, Start of Connection ✨</h2>
+
+<p align="center">
+  💙 Always learning, building, and growing one step at a time.
+</p>
+
+<p align="center">
+  🚀 Let's connect, collaborate, and create something amazing together!
+</p>
+
+<p align="center">
+  <a href="mailto:gursishkaur28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/gursishkaur28">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=3B82F6&center=true&width=500&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%92%99" />
+</p>
 <!--
 **gursishkaur28/gursishkaur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

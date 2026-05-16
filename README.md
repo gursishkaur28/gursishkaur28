@@ -99,6 +99,8 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   </a>
 </p>
 
+<h2 align="center">🌍 Open to Collaborate, Create & Innovate 🚀</h2>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>

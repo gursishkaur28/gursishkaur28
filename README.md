@@ -51,6 +51,29 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 
 ---
 
+<h2 align="center">🧠 What I Do</h2>
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+
+🛠️ Active in hackathons and building real-world projects<br><br>
+📸 Love creating projects using <b>Python</b> & <b>OpenCV</b><br><br>
+🌱 Daily <b>LeetCode</b> problem solver and DSA learner<br><br>
+🧠 Exploring <b>SQL</b>, <b>MongoDB</b>, backend development & APIs<br><br>
+🚀 Always learning new technologies and improving every day<br><br>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px"/>
+
+</td>
+</tr>
+</table>
+
 <h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">

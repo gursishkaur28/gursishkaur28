@@ -19,7 +19,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;Building+Real+Projects;Exploring+AI+%2B+Web+Development&center=true&width=500&height=50&duration=1500&pause=500&color=58A6FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Contibutor;Building+Real+Projects;Exploring+AI+%2B+Web+Development&center=true&width=500&height=50&duration=1500&pause=500&color=58A6FF">
 </p>
 
 <p align="center">
@@ -440,20 +440,10 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2ZTNmYzQxM2FlYjY1NjQ0NmQ4NzVjN2I0YjM2YjQ2NjQzY2I4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9EdzfOSgfyueLm/giphy.gif" width="250px"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/earth.gif" width="250px">
 </p>
-**gursishkaur28/gursishkaur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <!--
 **gursishkaur28/gursishkaur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

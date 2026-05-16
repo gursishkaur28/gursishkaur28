@@ -56,28 +56,33 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 
 ## <h1>🛠️ Tech Stack<h1>
 
+<h3 align="center">Languages</h3>
+
 <p align="center">
-  <h4>Languages</h4>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,java,mysql,typescript" />
 </p>
 
+<h3 align="center">Frameworks & Libraries</h3>
+
 <p align="center">
-  <h4>Framework & Libraries</h4>
   <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,django,mongodb,flutter,electron" />
 </p>
 
+<h3 align="center">Tools</h3>
+
 <p align="center">
-  <h4>Tools</h4>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,opencv,pytorch,linux,ubuntu" />
 </p>
 
-<p align="center">
-  <h4>Design</h4>
-  <img src="https://skillicons.dev/icons?i=canva,figma,photoshop,adobe" />
-</p>
+<h3 align="center">Design</h3>
 
 <p align="center">
-  <h4>Hosting</h4>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+<h3 align="center">Hosting</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 ---

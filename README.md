@@ -7,7 +7,7 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=12&duration=3000&pause=1000&color=2563EB&center=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
 <h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
 <h3 align="center">Building | Learning | Creating</h3>

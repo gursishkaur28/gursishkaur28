@@ -125,6 +125,17 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursishkaur28&theme=tokyonight" />
 </p>
 
+<h2 align="center">🏆 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gursishkaur28?theme=dark&font=Poppins&ext=contest" />
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gursishkaur28&bg_color=0d1117&color=3B82F6&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
 
 
 <p align="center">

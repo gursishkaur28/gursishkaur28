@@ -141,7 +141,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </p>
 
 
-<h1 align="center">📊 GitHub Stats<h1>
+<h1 align="center">📊 GitHub Stats</h1>h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gursishkaur28&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursishkaur28&theme=tokyonight" />

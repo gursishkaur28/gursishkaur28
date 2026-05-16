@@ -3,9 +3,8 @@
 <h3 align="center">Building | Learning | Creating</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;;Building+Real+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;Building+Real+Projects&center=true&width=500&height=50&duration=1500&pause=300">
 </p>
-
 ---
 
 

@@ -30,8 +30,9 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=flat" alt="stars"/>
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/syK6Yf/wave.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
+
 
 <h2 align="center">💫 About Me</h2>
 

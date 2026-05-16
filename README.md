@@ -37,7 +37,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   🚀 Open Source Contributor at <b>GSSoC 2026</b> and <b>NSOC 2026</b><br>
   💻 Full Stack Developer with a strong interest in modern web technologies<br>
   🐧 Linux User — Mint, Ubuntu & Kali Linux for learning and experimentation<br>
-  🔐 Cybersecurity learner with curiosity for ethical hacking and system concepts
+  🔐 Cybersecurity learner with curiosity for ethical hacking and system concepts<br>
   🎨 Creative mind with graphic designing and UI/UX interests<br>
   ✨ Passionate about website designing, development.
 </p>

@@ -48,7 +48,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   ✨ Passionate about website designing, development.
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
 ---
 

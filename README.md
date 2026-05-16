@@ -440,9 +440,8 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=3B82F6&center=true&width=500&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%92%99" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2ZTNmYzQxM2FlYjY1NjQ0NmQ4NzVjN2I0YjM2YjQ2NjQzY2I4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9EdzfOSgfyueLm/giphy.gif" width="250px"/>
 </p>
-<!--
 **gursishkaur28/gursishkaur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -20,9 +20,9 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gursishkaur28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   
-  <img src="https://img.shields.io/github/followers/gursishkaur28?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/gursishkaur28?label=Followers&style=flat" alt="followers"/>
 
-  <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=social" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=flat" alt="stars"/>
 </p>
 
 ## 🧠 About Me

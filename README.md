@@ -176,7 +176,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://linkedin.com/in/gursish-kaur">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

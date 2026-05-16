@@ -38,7 +38,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/gursishkaur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

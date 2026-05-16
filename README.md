@@ -440,11 +440,11 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/earth.gif" width="250px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
 
 
--->
+
 <!--
 **gursishkaur28/gursishkaur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

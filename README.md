@@ -122,9 +122,8 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 ---
 
 <p align="center">
-  ⚡ Learning by building. Improving every day.
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750583-991f8d7f-62b9-4f96-8c0f-3c4c9e6d0c1b.gif">
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 <!--
 **gursishkaur28/gursishkaur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

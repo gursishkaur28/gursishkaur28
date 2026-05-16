@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="ChatGPT Image May 16, 2026, 07_06_10 PM.png" 
+    alt="Gursish Kaur Banner" 
+    width="100%" 
+  />
+</p>
 <h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
 <h3 align="center">Building | Learning | Creating</h3>
 
@@ -61,7 +68,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </p>
 <h4>Tools</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,npm,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,linux,ubuntu" />
 </p>
 
 ---

@@ -6,7 +6,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;Building+Real+Projects;Exploring+AI+%2B+Web+Development&center=true&width=500&height=50&duration=1500&pause=300&color=58A6FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;Building+Real+Projects;Exploring+AI+%2B+Web+Development&center=true&width=500&height=50&duration=1500&pause=500&color=58A6FF">
 </p>
 
 <p align="center">

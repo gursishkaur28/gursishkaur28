@@ -163,7 +163,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </p>
 
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h1 align="center">📈 Contribution Graph</h1>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gursishkaur28&bg_color=0d1117&color=3B82F6&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>

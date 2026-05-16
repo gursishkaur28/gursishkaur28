@@ -29,7 +29,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=flat" alt="stars"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=12&duration=3000&pause=1000&color=2563EB&center=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
 
 <h2 align="center">💫 About Me</h2>
@@ -47,7 +47,9 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   🎨 Creative mind with graphic designing and UI/UX interests<br>
   ✨ Passionate about website designing, development.
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+</p>
 ---
 
 <h2 align="center">🧠 What I Do</h2>
@@ -72,6 +74,10 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+</p>
 
 <h1 align="center">🌐 Connect With Me</h1>
 

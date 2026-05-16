@@ -124,7 +124,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 <p align="center">
   ⚡ Learning by building. Improving every day.
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 <!--
 **gursishkaur28/gursishkaur28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

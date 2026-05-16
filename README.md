@@ -125,10 +125,10 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursishkaur28&theme=tokyonight" />
 </p>
 
-<h2 align="center">🏆 LeetCode Stats</h2>
+<h1 align="center">🏆 LeetCode Stats</h1>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/gursishkaur28?theme=dark&font=Poppins&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/gursish-kaur?theme=dark&font=Poppins&ext=contest" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>

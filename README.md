@@ -26,13 +26,28 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=flat" alt="stars"/>
 </p>
 
-## 🧠 About Me
+<h2 align="center">💫 About Me</h2>
 
-- 💻 Frontend Developer | 🎨 Designer | 🚀 Tech Enthusiast  
-- 🐧 Working with Linux (WSL + Ubuntu)  
-- 🤖 Exploring AI, OpenCV & real-world projects  
-- ⚡ Hackathons | Open Source | Creative Coding  
-- 🌱 Always learning, always building  
+<p align="center">
+  Hi 👋 I'm <b>Gursish Kaur</b>, a passionate <b>Full Stack Developer</b>, 
+  creative tech enthusiast, and open-source contributor.
+</p>
+
+<p align="center">
+  🚀 Open Source Contributor at <b>GSSoC 2026</b> and <b>NSOC 2026</b><br>
+  💻 Full Stack Developer with a strong interest in modern web technologies<br>
+  🌱 Daily <b>LeetCode</b> problem solver and DSA learner<br>
+  🧠 Exploring <b>SQL</b>, <b>MongoDB</b>, and backend development<br>
+  🐧 Linux User — Mint, Ubuntu & Kali Linux for learning and experimentation<br>
+  🔐 Cybersecurity learner with curiosity for ethical hacking and system concepts
+</p>
+
+<p align="center">
+  🎨 Creative mind with graphic designing and UI/UX interests<br>
+  📸 Love building projects using <b>Python</b> and <b>OpenCV</b><br>
+  🛠️ Active in hackathons and always working on real-world projects<br>
+  ✨ Passionate about website designing, development.
+</p>
 
 ---
 

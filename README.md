@@ -46,12 +46,12 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 
 ---
 
-## 🛠️ Tech Stack
-<h1>Languages</h1>
+## <h1>🛠️ Tech Stack<h1>
+<h4>Languages</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,c++,html,css,javascript,java,SQL,typescript" />
 </p>
-<h1>Tools</h1>
+<h4>Tools</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai" />
 </p>

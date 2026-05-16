@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-    src="ChatGPT Image May 16, 2026, 07_06_10 PM.png" 
-    alt="Gursish Kaur Banner" 
+    src="https://raw.githubusercontent.com/gursishkaur28/gursishkaur28/main/banner.png"
+    alt="Gursish Kaur Banner"
     width="100%" 
   />
+</p>
 </p>
 <h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
 <h3 align="center">Building | Learning | Creating</h3>

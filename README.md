@@ -53,7 +53,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
 
----
+
 
 <h2 align="center">🧠 What I Do</h2>
 
@@ -99,7 +99,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   </a>
 </p>
 
----<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
 
@@ -135,7 +135,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
----
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>

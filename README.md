@@ -1,13 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Gursish Kaur</h1>
-<h3 align="center">Building | Learning | Creating</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;Building+Real+Projects&center=true&width=500&height=50&duration=1500&pause=300">
-</p>
-
-
 <h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
+<h3 align="center">Building | Learning | Creating</h3>
 
 <h3 align="center">
 Frontend Developer • Open Source Contributor • Tech Enthusiastic

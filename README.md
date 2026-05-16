@@ -173,7 +173,19 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750583-991f8d7f-62b9-4f96-8c0f-3c4c9e6d0c1b.gif">
 </p>
+<h1 align="center">🏅 Contribution Badges</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/GSSoC-2026-0F172A?style=for-the-badge&logo=googlesummerofcode&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/NSOC-2026-2563EB?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Hackathons-Active-0F172A?style=for-the-badge&logo=devpost&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/LeetCode-Daily%20Solver-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>

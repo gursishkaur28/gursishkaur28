@@ -56,22 +56,25 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 
 ## <h1>🛠️ Tech Stack<h1>
 <h4>Languages</h4>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,java,mysql,typescript" />
 </p>
 <h4>Framework & Libraries</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,django,flutter" />
-</p>
-<h4>Design</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,c++,html,css,javascript,java,typescript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,django,mongodb,flutter,electron" />
 </p>
 <h4>Tools</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,linux,ubuntu" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,opencv,pytorch,linux,ubuntu" />
 </p>
-
+<h4>Design</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=canva,figma,photoshop,adobe" />
+</p>
+<h4>Hosting</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
 ---
 
 ## 📊 GitHub Stats

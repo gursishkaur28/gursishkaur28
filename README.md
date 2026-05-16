@@ -7,7 +7,7 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750583-991f8d7f-62b9-4f96-8c0f-3c4c9e6d0c1b.gif" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=12&duration=3000&pause=1000&color=2563EB&center=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 </p>
 <h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
 <h3 align="center">Building | Learning | Creating</h3>
@@ -29,7 +29,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=flat" alt="stars"/>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-695850d0-1d76-4a6d-a8b7-c4d5d6b3f1cb.gif" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=12&duration=3000&pause=1000&color=2563EB&center=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 </p>
 
 <h2 align="center">💫 About Me</h2>

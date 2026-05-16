@@ -61,7 +61,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 
 <td width="40%" align="center">
 
-<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)" width="300px"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px"/>
 
 </td>
 </tr>

@@ -7,8 +7,9 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/706J2Z8/line.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
+
 <h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
 <h3 align="center">Building | Learning | Creating</h3>
 
@@ -48,8 +49,9 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   ✨ Passionate about website designing, development.
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
+
 ---
 
 <h2 align="center">🧠 What I Do</h2>
@@ -79,6 +81,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
 </p>
 
+
 <h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
@@ -95,7 +98,10 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   </a>
 </p>
 
----
+---<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+</p>
+
 
 <h1 align="center">⚡ Tech Stack</h1>
 
@@ -129,6 +135,9 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+</p>
 
 
 <h1 align="center">📊 GitHub Stats<h1>
@@ -137,11 +146,21 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursishkaur28&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+</p>
+
+
 <h1 align="center">🏆 LeetCode Stats</h1>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gursish-kaur?theme=dark&font=Poppins&ext=contest" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+</p>
+
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -153,6 +172,11 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750583-991f8d7f-62b9-4f96-8c0f-3c4c9e6d0c1b.gif">
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+</p>
+
 
 <h2 align="center">✨ ⚡ End of Scroll, Start of Connection ✨</h2>
 

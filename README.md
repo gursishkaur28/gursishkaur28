@@ -36,7 +36,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
 
 ---
 
-## 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/gursish-kaur" target="_blank">

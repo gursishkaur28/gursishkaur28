@@ -5,8 +5,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;Building+Real+Projects&center=true&width=500&height=50&duration=1500&pause=300">
 </p>
----
 
+
+<h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
+
+<h3 align="center">
+Frontend Developer • Open Source Contributor • Tech Enthusiastic
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Open+Source+Learner;Building+Real+Projects;Exploring+AI+%2B+Web+Development&center=true&width=500&height=50&duration=1500&pause=300&color=58A6FF">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gursishkaur28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  
+  <img src="https://img.shields.io/github/followers/gursishkaur28?label=Followers&style=social" alt="followers"/>
+
+  <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=social" alt="stars"/>
+</p>
 
 ## 🧠 About Me
 

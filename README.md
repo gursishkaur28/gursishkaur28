@@ -125,33 +125,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursishkaur28&theme=tokyonight" />
 </p>
 
----
 
-## 💻 Projects
-- 🤖 **Friday AI Chatbot**  
-  → Speech-enabled chatbot (TTS integration)
-
-- 🎥 **OpenCV & MediaPipe Projects**  
-  → Real-time processing applications
-
----
-
-## 🎯 Goals
-- 🚀 Contribute to impactful open-source projects  
-- 🧠 Build scalable AI systems  
-- 🌟 GSoC Selection  
-- 📈 Continuous learning & growth  
-
----
-
-## 🔗 Connect with Me
-<p align="left">
-  <a href="mailto:gursishkaur28@gmail.com">📧 Email</a>
-  <br>
-  <a href="https://github.com/gursishkaur28">💻 GitHub</a>
-</p>
-
----
 
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750583-991f8d7f-62b9-4f96-8c0f-3c4c9e6d0c1b.gif">

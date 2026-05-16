@@ -7,7 +7,7 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+  <img src="https://i.ibb.co/706J2Z8/line.gif" width="100%">
 </p>
 <h1 align="center">Hey, I'm Gursish Kaur 👋</h1>
 <h3 align="center">Building | Learning | Creating</h3>
@@ -29,7 +29,7 @@ Frontend Developer • Open Source Contributor • Tech Enthusiastic
   <img src="https://img.shields.io/github/stars/gursishkaur28?affiliations=OWNER&style=flat" alt="stars"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+  <img src="https://i.ibb.co/syK6Yf/wave.gif" width="100%">
 </p>
 
 <h2 align="center">💫 About Me</h2>
